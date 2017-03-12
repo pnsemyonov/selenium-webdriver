@@ -28,3 +28,5 @@ page-specific functions. This is implementation of _Page Object Model_ design pa
 
 Final layer of abstraction is so called `Wizard` (single or multi-page dialog) which allows to execute complex UI 
 operations rather that interacting with separate components. 
+
+The API has been developed as part of in-house test framework.
