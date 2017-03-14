@@ -1,7 +1,7 @@
 ### API for automated testing of System Manager UI
 Used tools:
-- _Selenium WebDriver_
 - _Python_
+- _Selenium WebDriver API_
 
 Given API is designed to perform automated UI testing of _System Manager_ - web-based application for administrators of 
 _FlashRay_ all-flash array storage system. _System Manager_ is built with using _Sencha_'s components, what allowed to 
