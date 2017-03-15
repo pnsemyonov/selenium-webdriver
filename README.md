@@ -1,4 +1,4 @@
-### API for testing of System Manager UI
+### API for UI testing of System Manager
 Used tools:
 - _Python_
 - _Selenium WebDriver API_
